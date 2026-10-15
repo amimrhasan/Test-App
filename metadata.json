@@ -1,0 +1,6 @@
+{
+  "name": "অনুশীলন (Onushilon)",
+  "description": "পড়ো, অনুশীলন করো, নিজেকে যাচাই করো — Premium MCQ Practice & Exam Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
